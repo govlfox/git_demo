@@ -28,4 +28,8 @@ public class GitDemoApplication {
         return "Application is running";
     }
 
+    public String getStatus3() {
+        return "A";
+    }
+
 }
