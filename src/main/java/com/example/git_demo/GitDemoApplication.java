@@ -29,6 +29,6 @@ public class GitDemoApplication {
     }
 
     public String getB() {
-        return "B";
+        return "BB";
     }
 }
