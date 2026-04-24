@@ -29,7 +29,7 @@ public class GitDemoApplication {
     }
 
     public String getStatus3() {
-        return "A";
+        return "B";
     }
 
 }
