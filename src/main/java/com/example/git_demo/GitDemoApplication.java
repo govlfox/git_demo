@@ -30,10 +30,11 @@ public class GitDemoApplication {
 
     public String getA() {
         return "A";
+    }
     public String getB() {
         return "BB";
-    public String getC() {
-        return "C";
     }
-
+    public String getC() {
+        return "D";
+    }
 }
